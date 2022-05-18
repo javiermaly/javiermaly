@@ -2,7 +2,7 @@
 
 Hi, I'm Javier Maly, a passionate self-taught Backend developer from Uruguay.
 
-- 🔭 I’m currently working on [![Antel]](https://www.antel.com.uy/) 
+- 🔭 I’m currently working on [Endava](https://www.endava.com/) 
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/javiermaly/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="rigth" height="26" width="26" ></a>
 
